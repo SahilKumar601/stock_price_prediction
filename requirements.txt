@@ -5,3 +5,4 @@ tensorflow==2.16.1
 matplotlib==3.6.3
 yfinance==0.2.10
 scikit-learn==1.5.0
+altair==4.2.0
